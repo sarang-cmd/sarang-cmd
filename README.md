@@ -10,4 +10,4 @@
 - ⚡ Fun fact: I started developing when I was 3!
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sarang-cmd)](https://git.io/streak-stats)

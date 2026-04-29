@@ -5,7 +5,11 @@
 - 👯 I'm looking to collaborate on any project!
 - 🤔 I'm looking for help with better free AI alternatives to Puter.js
 - 💬 Ask me about any project
-- 📫 How to reach me (see bio for more): sbatra@student.dresden-is.de (let me know you came from my GitHub). Instagram: [@aaravdeev](https://www.instagram.com/aaravdeev). LinkedIn: [/sarang-batra](https://www.linkedin.com/in/sarang-batra/)
+- 📫 How to reach me (see bio for more):
+    <br>sbatra@student.dresden-is.de
+    <br> Instagram: [@aaravdeev](https://www.instagram.com/aaravdeev)
+    <br>LinkedIn: [/sarang-batra](https://www.linkedin.com/in/sarang-batra/)
+    **<br>(let me know you came from my GitHub)**
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I started developing when I was 3!
 

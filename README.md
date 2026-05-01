@@ -59,7 +59,7 @@
     <td align="center" width="120"><a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40"/></a><br />C++</td>
   </tr>
   <tr>
-    <td align="center" width="120"><a href="https://chatgpt.com" target="_blank" rel="noreferrer"><img src="/icons/openai-icon.png?v=2" alt="ChatGPT" width="40" height="40"/></a><br />ChatGPT</td>
+    <td align="center" width="120"><a href="https://chatgpt.com" target="_blank" rel="noreferrer"><img src="/icons/openai-icon_rounded.png?v=2" alt="ChatGPT" width="40" height="40"/></a><br />ChatGPT</td>
     <td align="center" width="120"><a href="https://claude.ai" target="_blank" rel="noreferrer"><img src="/icons/claude-ai-icon.png?v=2" alt="Claude" width="40" height="40"/></a><br />Claude</td>
     <td align="center" width="120"><a href="https://claude.ai/download" target="_blank" rel="noreferrer"><img src="/icons/claudecode-color.png?v=2" alt="Claude Code" width="40" height="40"/></a><br />Claude Code</td>
     <td align="center" width="120"><a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40"/></a><br />CSS</td>
@@ -71,7 +71,7 @@
   <tr>
     <td align="center" width="120"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/></a><br />Git</td>
     <td align="center" width="120"><a href="https://bigmodel.cn" target="_blank" rel="noreferrer"><img src="/icons/z-ai-icon.png?v=2" alt="GLM / Z.ai" width="40" height="40"/></a><br />GLM / Z.ai</td>
-    <td align="center" width="120"><a href="https://aistudio.google.com/" target="_blank" rel="noreferrer"><img src="/icons/google-ai-studio-icon.png?v=2" alt="Google AI Studio" width="40" height="40"/></a><br />Google AI Studio</td>
+    <td align="center" width="120"><a href="https://aistudio.google.com/" target="_blank" rel="noreferrer"><img src="/icons/google-ai-studio-icon_rounded.png?v=2" alt="Google AI Studio" width="40" height="40"/></a><br />Google AI Studio</td>
     <td align="center" width="120"><a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" width="40" height="40"/></a><br />Google Cloud</td>
     <td align="center" width="120"><a href="https://gemini.google.com/" target="_blank" rel="noreferrer"><img src="/icons/google-gemini-icon.png?v=2" alt="Google Gemini" width="40" height="40"/></a><br />Google Gemini</td>
     <td align="center" width="120"><a href="https://grok.x.ai" target="_blank" rel="noreferrer"><img src="/icons/grok-icon.png?v=2" alt="Grok" width="40" height="40"/></a><br />Grok</td>
@@ -80,12 +80,12 @@
   </tr>
   <tr>
     <td align="center" width="120"><a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/></a><br />JavaScript</td>
-    <td align="center" width="120"><a href="https://manus.im" target="_blank" rel="noreferrer"><img src="/icons/manus-ai-icon.png?v=2" alt="Manus" width="40" height="40"/></a><br />Manus</td>
+    <td align="center" width="120"><a href="https://manus.im" target="_blank" rel="noreferrer"><img src="/icons/manus-ai-icon_rounded.png?v=2" alt="Manus" width="40" height="40"/></a><br />Manus</td>
     <td align="center" width="120"><a href="https://www.adobe.com/products/media-encoder.html" target="_blank" rel="noreferrer"><img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/me_appicon.svg" alt="Media Encoder" width="40" height="40"/></a><br />Media Encoder</td>
     <td align="center" width="120"><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/></a><br />MongoDB</td>
     <td align="center" width="120"><a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40"/></a><br />Next.js</td>
     <td align="center" width="120"><a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/></a><br />Node.js</td>
-    <td align="center" width="120"><a href="https://ollama.com" target="_blank" rel="noreferrer"><img src="/icons/ollama-icon.png?v=2" alt="Ollama" width="40" height="40"/></a><br />Ollama</td>
+    <td align="center" width="120"><a href="https://ollama.com" target="_blank" rel="noreferrer"><img src="/icons/ollama-icon_rounded.png?v=2" alt="Ollama" width="40" height="40"/></a><br />Ollama</td>
     <td align="center" width="120"><a href="https://www.perplexity.ai" target="_blank" rel="noreferrer"><img src="/icons/perplexity-ai-icon.png?v=2" alt="Perplexity" width="40" height="40"/></a><br />Perplexity</td>
   </tr>
   <tr>

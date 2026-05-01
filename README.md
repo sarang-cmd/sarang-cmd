@@ -16,4 +16,3 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sarang-cmd&theme=dark&hide_border=true)](https://git.io/streak-stats)
 ![Sarang's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarang-cmd&show_icons=true&theme=dark)
-[![Sarang's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarang-cmd)](https://github.com/anuraghazra/github-readme-stats)

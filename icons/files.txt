@@ -1,3 +1,4 @@
 manus-ai-icon.png
 ollama-icon.png
 google-ai-studio-icon.png
+openai-icon.png

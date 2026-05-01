@@ -24,21 +24,21 @@
 <h3 align="left">Connect with me:</h3>
 <table>
   <tr>
-    <td align="center">
+    <td align="center" width="120">
       <a href="https://github.com/sarang-cmd" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sarang-cmd" height="30" width="40" />
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40" />
       </a><br />
       GitHub
     </td>
-    <td align="center">
+    <td align="center" width="120">
       <a href="https://linkedin.com/in/sarang-batra" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarang-batra" height="30" width="40" />
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
       </a><br />
       LinkedIn
     </td>
-    <td align="center">
+    <td align="center" width="120">
       <a href="https://instagram.com/aaravdeev" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aaravdeev" height="30" width="40" />
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40" />
       </a><br />
       Instagram
     </td>
@@ -48,42 +48,64 @@
 <h3 align="left">My Tech Stack - Languages and Tools:</h3>
 <table>
   <tr>
-    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/></a><br />Arduino</td>
-    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/></a><br />Bash</td>
-    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/></a><br />Blender</td>
-    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/></a><br />C</td>
-    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/></a><br />C++</td>
-    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/></a><br />C#</td>
-    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/></a><br />CSS</td>
-    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/dotnet" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/></a><br />.NET</td>
+    <td align="center" width="120"><a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" width="40" height="40"/></a><br />Arduino</td>
+    <td align="center" width="120"><a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="40" height="40"/></a><br />Bash</td>
+    <td align="center" width="120"><a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=blender" alt="Blender" width="40" height="40"/></a><br />Blender</td>
+    <td align="center" width="120"><a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40"/></a><br />C</td>
+    <td align="center" width="120"><a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40"/></a><br />C++</td>
+    <td align="center" width="120"><a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cs" alt="C#" width="40" height="40"/></a><br />C#</td>
+    <td align="center" width="120"><a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40"/></a><br />CSS</td>
+    <td align="center" width="120"><a href="https://developer.mozilla.org/en-US/docs/Web/dotnet" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="40" height="40"/></a><br />.NET</td>
   </tr>
   <tr>
-    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/electron" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=electron" alt="electron" width="40" height="40"/></a><br />Electron</td>
-    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/></a><br />Figma</td>
-    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/></a><br />Firebase</td>
-    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/></a><br />Git</td>
-    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/></a><br />HTML</td>
-    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/illustrator" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/></a><br />Illustrator</td>
-    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/></a><br />JavaScript</td>
-    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/></a><br />MongoDB</td>
+    <td align="center" width="120"><a href="https://developer.mozilla.org/en-US/docs/Web/electron" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=electron" alt="Electron" width="40" height="40"/></a><br />Electron</td>
+    <td align="center" width="120"><a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40"/></a><br />Figma</td>
+    <td align="center" width="120"><a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="40" height="40"/></a><br />Firebase</td>
+    <td align="center" width="120"><a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/></a><br />Git</td>
+    <td align="center" width="120"><a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40"/></a><br />HTML</td>
+    <td align="center" width="120"><a href="https://developer.mozilla.org/en-US/docs/Web/illustrator" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=illustrator" alt="Illustrator" width="40" height="40"/></a><br />Illustrator</td>
+    <td align="center" width="120"><a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/></a><br />JavaScript</td>
+    <td align="center" width="120"><a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/></a><br />MongoDB</td>
   </tr>
   <tr>
-    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/></a><br />Next.js</td>
-    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/></a><br />Node.js</td>
-    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/></a><br />Ollama</td>
-    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/></a><br />Photoshop</td>
-    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/></a><br />PHP</td>
-    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/></a><br />Python</td>
-    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/></a><br />React</td>
-    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/></a><br />React Native</td>
+    <td align="center" width="120"><a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40"/></a><br />Next.js</td>
+    <td align="center" width="120"><a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/></a><br />Node.js</td>
+    <td align="center" width="120"><a href="https://ollama.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/ollama" alt="Ollama" width="40" height="40"/></a><br />Ollama</td>
+    <td align="center" width="120"><a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=photoshop" alt="Photoshop" width="40" height="40"/></a><br />Photoshop</td>
+    <td align="center" width="120"><a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=php" alt="PHP" width="40" height="40"/></a><br />PHP</td>
+    <td align="center" width="120"><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40"/></a><br />Python</td>
+    <td align="center" width="120"><a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/></a><br />React</td>
+    <td align="center" width="120"><a href="https://reactnative.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="React Native" width="40" height="40"/></a><br />React Native</td>
   </tr>
   <tr>
-    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/></a><br />Tailwind</td>
-    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/></a><br />TensorFlow</td>
-    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/></a><br />TypeScript</td>
-    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/></a><br />Unity</td>
-    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/></a><br />Vue</td>
-    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/zapier" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/zapier/FF4A00" alt="zapier" width="40" height="40"/></a><br />Zapier</td>
+    <td align="center" width="120"><a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="40" height="40"/></a><br />Tailwind</td>
+    <td align="center" width="120"><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="40" height="40"/></a><br />TensorFlow</td>
+    <td align="center" width="120"><a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40"/></a><br />TypeScript</td>
+    <td align="center" width="120"><a href="https://unity.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="40" height="40"/></a><br />Unity</td>
+    <td align="center" width="120"><a href="https://vuejs.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vue" alt="Vue" width="40" height="40"/></a><br />Vue</td>
+    <td align="center" width="120"><a href="https://zapier.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/zapier/FF4A00" alt="Zapier" width="40" height="40"/></a><br />Zapier</td>
+    <td align="center" width="120"><a href="https://www.perplexity.ai" target="_blank" rel="noreferrer"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/perplexity.svg" alt="Perplexity" width="40" height="40"/></a><br />Perplexity</td>
+    <td align="center" width="120"><a href="https://claude.ai" target="_blank" rel="noreferrer"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claude.svg" alt="Claude" width="40" height="40"/></a><br />Claude</td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><a href="https://claude.ai/download" target="_blank" rel="noreferrer"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claude.svg" alt="Claude Code" width="40" height="40"/></a><br />Claude Code</td>
+    <td align="center" width="120"><a href="https://chatgpt.com" target="_blank" rel="noreferrer"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" alt="ChatGPT" width="40" height="40"/></a><br />ChatGPT</td>
+    <td align="center" width="120"><a href="https://www.deepseek.com" target="_blank" rel="noreferrer"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/deepseek.svg" alt="DeepSeek" width="40" height="40"/></a><br />DeepSeek</td>
+    <td align="center" width="120"><a href="https://bigmodel.cn" target="_blank" rel="noreferrer"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/zhipu.svg" alt="GLM / Z.ai" width="40" height="40"/></a><br />GLM / Z.ai</td>
+    <td align="center" width="120"><a href="https://grok.x.ai" target="_blank" rel="noreferrer"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/grok.svg" alt="Grok" width="40" height="40"/></a><br />Grok</td>
+    <td align="center" width="120"><a href="https://manus.im" target="_blank" rel="noreferrer"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/manus.svg" alt="Manus" width="40" height="40"/></a><br />Manus</td>
+    <td align="center" width="120"><a href="https://qwenlm.github.io" target="_blank" rel="noreferrer"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/qwen.svg" alt="Qwen" width="40" height="40"/></a><br />Qwen</td>
+    <td align="center" width="120"><a href="https://vite.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="40" height="40"/></a><br />Vite</td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/960px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="Premiere Pro" width="40" height="40"/></a><br />Premiere Pro</td>
+    <td align="center" width="120"><a href="https://www.adobe.com/products/media-encoder.html" target="_blank" rel="noreferrer"><img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/me_appicon.svg" alt="Media Encoder" width="40" height="40"/></a><br />Media Encoder</td>
+    <td align="center" width="120"><a href="https://scratch.mit.edu" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/scratch?viewbox=auto&size=40" alt="Scratch" width="40" height="40"/></a><br />Scratch</td>
+    <td align="center" width="120"><a href="https://antigravity.google" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/google" alt="Antigravity" width="40" height="40"/></a><br />Antigravity</td>
+    <td align="center" width="120"><a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" width="40" height="40"/></a><br />Google Cloud</td>
+    <td align="center" width="120"><a href="https://www.sketchup.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sketchup" alt="SketchUp" width="40" height="40"/></a><br />SketchUp</td>
+    <td align="center" width="120">&nbsp;</td>
+    <td align="center" width="120">&nbsp;</td>
   </tr>
 </table>
 

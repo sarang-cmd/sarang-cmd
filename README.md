@@ -8,7 +8,7 @@
 
 ## Hi there 👋
 
-- 🔭 I'm currently working on a personal Pit Wall dashboard
+- 🔭 I'm currently working on a personal Formula 1 Pit Wall Dashboard 
 - 🌱 I'm currently learning AI Integrations in React
 - 👯 I'm looking to collaborate on any project!
 - 🤔 I'm looking for help with better free AI alternatives to Puter.js

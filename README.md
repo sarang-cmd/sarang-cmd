@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sarang Batra
+# Hi there 👋, I'm Sarang Batra
 
 ### Just another aspiring CS Student.
 
@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=sarang-cmd&label=Profile%20views&color=0e75b6&style=flat" alt="sarang-cmd" />
 </p>
 
-## Hi there 👋
+<hr>
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/960px-F1.svg.png" alt="Formula One Logo" width="45" /> I'm currently working on a personal Formula 1 Pit Wall Dashboard 
 - 🌱 I'm currently learning AI Integrations in React

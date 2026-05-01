@@ -13,11 +13,6 @@
 - 👯 I'm looking to collaborate on any project!
 - 🤔 I'm looking for help with better free AI alternatives to Puter.js
 - 💬 Ask me about any project
-- 📫 How to reach me (see bio for more):  
-  <br>sbatra@student.dresden-is.de  
-  <br>Instagram: [@aaravdeev](https://www.instagram.com/aaravdeev)  
-  <br>LinkedIn: [/sarang-batra](https://www.linkedin.com/in/sarang-batra/)  
-  <br><strong>(let me know you came from my GitHub)</strong>
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I started developing when I was 3!
 
@@ -42,9 +37,15 @@
       </a><br />
       Instagram
     </td>
+    <td align="center" width="120">
+      <a href="mailto:sbatra@student.dresden-is.de">
+        <img src="https://cdn.simpleicons.org/gmail" alt="Email" width="40" height="40" />
+      </a><br />
+      Gmail
+    </td>
   </tr>
 </table>
-
+<strong>(let me know you came from my GitHub)</strong>
 <h3 align="left">My Tech Stack - Languages and Tools:</h3>
 <table>
   <tr>

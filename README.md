@@ -86,7 +86,7 @@
     <td align="center" width="120"><a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40"/></a><br />Next.js</td>
     <td align="center" width="120"><a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/></a><br />Node.js</td>
     <td align="center" width="120"><a href="https://ollama.com" target="_blank" rel="noreferrer"><img src="/icons/ollama-icon_rounded.png?v=3" alt="Ollama" width="40" height="40"/></a><br />Ollama</td>
-    <td align="center" width="120"><a href="https://www.perplexity.ai" target="_blank" rel="noreferrer"><img src="/icons/perplexity-ai-icon.png?v=3" alt="Perplexity" width="40" height="40"/></a><br />Perplexity</td>
+    <td align="center" width="120"><a href="https://www.perplexity.ai" target="_blank" rel="noreferrer"><img src="/icons/perplexity-ai-icon.png?v=3" alt="Perplexity" width="50" height="50"/></a><br />Perplexity</td>
   </tr>
   <tr>
     <td align="center" width="120"><a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=php" alt="PHP" width="40" height="40"/></a><br />PHP</td>

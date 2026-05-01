@@ -1,5 +1,5 @@
-# Hi there 👋, I'm Sarang Batra
-
+# Hi there 👋, I'm Sarang Dev Batra
+(no, I didn't make Dev my middle name just cause I am one 😉)
 ### Just another aspiring CS Student.
 
 <p align="left">

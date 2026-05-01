@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Sarang Dev Batra
+# Hi there 👋, I'm Sarang <ins>Dev</ins> Batra
 (no, I didn't make Dev my middle name just cause I am one 😉)
 ### Just another aspiring CS Student.
 

@@ -1,3 +1,10 @@
+<h1 align="center">Hi 👋, I'm Sarang Batra</h1>
+<h3 align="center">Just another aspiring CS student.</h3>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sarang-cmd&label=Profile%20views&color=0e75b6&style=flat" alt="sarang-cmd" />
+</p>
+
 ## Hi there 👋
 
 - 🔭 I'm currently working on personal Pit Wall dashboard
@@ -5,14 +12,37 @@
 - 👯 I'm looking to collaborate on any project!
 - 🤔 I'm looking for help with better free AI alternatives to Puter.js
 - 💬 Ask me about any project
-- 📫 How to reach me (see bio for more):
-    <br>sbatra@student.dresden-is.de
-    <br> Instagram: [@aaravdeev](https://www.instagram.com/aaravdeev)
-    <br>LinkedIn: [/sarang-batra](https://www.linkedin.com/in/sarang-batra/)
-    **<br>(let me know you came from my GitHub)**
+- 📫 How to reach me (see bio for more):  
+  <br>sbatra@student.dresden-is.de  
+  <br>Instagram: [@aaravdeev](https://www.instagram.com/aaravdeev)  
+  <br>LinkedIn: [/sarang-batra](https://www.linkedin.com/in/sarang-batra/)  
+  **<br>(let me know you came from my GitHub)**
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I started developing when I was 3!
 
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+  <a href="https://github.com/sarang-cmd" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sarang-cmd" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/sarang-batra" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarang-batra" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/aaravdeev" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aaravdeev" height="30" width="40" />
+  </a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,bash,blender,c,cpp,cs,css,dotnet,electron,figma,firebase,git,html,illustrator,js,mongodb,nextjs,nodejs,photoshop,php,py,pytorch,react,tailwind,tensorflow,ts,unity,vue" />
+  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/zapier/FF4A00" alt="zapier" width="40" height="40" />
+</p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sarang-cmd&theme=dark&hide_border=true)](https://git.io/streak-stats)
 ![Sarang's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarang-cmd&show_icons=true&theme=dark)

@@ -8,7 +8,7 @@
 
 ## Hi there 👋
 
-- 🔭 I'm currently working on a personal Formula 1 Pit Wall Dashboard 
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/960px-F1.svg.png" alt="Formula One Logo" width="45" /> I'm currently working on a personal Formula 1 Pit Wall Dashboard 
 - 🌱 I'm currently learning AI Integrations in React
 - 👯 I'm looking to collaborate on any project!
 - 🤔 I'm looking for help with better free AI alternatives to Puter.js

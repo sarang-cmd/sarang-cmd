@@ -46,6 +46,9 @@
   </tr>
 </table>
 <strong>(let me know you came from my GitHub)</strong>
+
+You can also ask me anything here: https://github.com/sarang-cmd/sarang-cmd/issues
+
 <h3 align="left">My Tech Stack - Languages and Tools:</h3>
 <table>
   <tr>

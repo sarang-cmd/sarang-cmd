@@ -118,7 +118,7 @@ You can also ask me anything here: https://github.com/sarang-cmd/sarang-cmd/issu
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=sarang-cmd&theme=dark&hide_border=true"
+    src="https://streak-stats.demolab.com?user=sarang-cmd&theme=dark&hide_border=true&cache_seconds=60"
     alt="GitHub Streak"
   />
 </p>

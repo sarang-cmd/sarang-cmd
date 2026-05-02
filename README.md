@@ -110,25 +110,32 @@
   </tr>
 </table>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sarang-cmd&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<h2 align="left">Just some statistics:</h2>
 
-<table align="center">
-  <tr>
-    <td>
-      <img
-        src="https://github-readme-stats-fast.vercel.app/api?username=sarang-cmd&show_icons=true&theme=dark&hide_border=true"
-        height="170"
-        alt="Sarang's GitHub stats"
-      />
-    </td>
-    <td>
-      <img
-        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sarang-cmd&show_icons=true&layout=compact&theme=dark&hide_border=true"
-        height="170"
-        alt="Top languages"
-      />
-    </td>
-  </tr>
-</table>
 
-[![Sarang's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sarang-cmd&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=sarang-cmd&theme=dark&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=sarang-cmd&show_icons=true&theme=dark&hide_border=true"
+    alt="Sarang's GitHub stats"
+    width="54%"
+  />
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sarang-cmd&show_icons=true&layout=compact&theme=dark&hide_border=true"
+    alt="Top languages"
+    width="41%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sarang-cmd&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true"
+    alt="Sarang's github activity graph"
+  />
+</p>

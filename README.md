@@ -125,7 +125,7 @@ You can also ask me anything here: https://github.com/sarang-cmd/sarang-cmd/issu
 
 <p align="center">
   <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=sarang-cmd&show_icons=true&theme=dark&hide_border=true"
+    src="https://github-readme-stats-fast.vercel.app/api?username=sarang-cmd&show_icons=true&theme=dark&hide_border=true&cache_seconds=60"
     alt="Sarang's GitHub stats"
     width="54%"
   />
@@ -138,7 +138,7 @@ You can also ask me anything here: https://github.com/sarang-cmd/sarang-cmd/issu
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sarang-cmd&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sarang-cmd&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true&cache_seconds=60"
     alt="Sarang's github activity graph"
   />
 </p>

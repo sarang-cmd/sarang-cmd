@@ -130,7 +130,7 @@ You can also ask me anything here: https://github.com/sarang-cmd/sarang-cmd/issu
     width="54%"
   />
   <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sarang-cmd&show_icons=true&layout=compact&theme=dark&hide_border=true&cache_seconds=60&v=2"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sarang-cmd&show_icons=true&layout=compact&theme=dark&hide_border=true&cache_seconds=60&v=3"
     alt="Top languages"
     width="41%"
   />

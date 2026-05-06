@@ -115,6 +115,11 @@ You can also ask me anything here: https://github.com/sarang-cmd/sarang-cmd/issu
 
 <h2 align="left">Just some statistics:</h2>
 
+<!--
+  <p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sarang-cmd&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+  </p>
+-->
 
 <p align="center">
   <img

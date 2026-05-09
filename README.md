@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Sarang <ins>Dev</ins> Batra
 (no, I didn't make Dev my middle name just cause I am one 😉)
-### Just another aspiring CS Student.
+### Just another aspiring CS Student and Agentic Engineer.
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sarang-cmd&label=Profile%20views&color=0e75b6&style=flat" alt="sarang-cmd" />

@@ -123,29 +123,33 @@ You can also ask me anything here: https://github.com/sarang-cmd/sarang-cmd/issu
     <td align="center" width="120"><a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40"/></a><br />Next.js</td>
     <td align="center" width="120"><a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/></a><br />Node.js</td>
     <td align="center" width="120"><a href="https://ollama.com" target="_blank" rel="noreferrer"><img src="/icons/ollama-icon_rounded.png?v=3" alt="Ollama" width="40" height="40"/></a><br />Ollama</td>
-    <td align="center" width="120"><a href="https://www.perplexity.ai" target="_blank" rel="noreferrer"><img src="/icons/perplexity-ai-icon.png?v=3" alt="Perplexity" width="50" height="50"/></a><br />Perplexity</td>
   </tr>
   <tr>
+    <td align="center" width="120"><a href="https://www.perplexity.ai" target="_blank" rel="noreferrer"><img src="/icons/perplexity-ai-icon.png?v=3" alt="Perplexity" width="50" height="50"/></a><br />Perplexity</td>
     <td align="center" width="120"><a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=php" alt="PHP" width="40" height="40"/></a><br />PHP</td>
     <td align="center" width="120"><a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=photoshop" alt="Photoshop" width="40" height="40"/></a><br />Photoshop</td>
     <td align="center" width="120"><a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/960px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="Premiere Pro" width="40" height="40"/></a><br />Premiere Pro</td>
     <td align="center" width="120"><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40"/></a><br />Python</td>
+    <td align="center" width="120"><a href="https://pytorch.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="40" height="40"/></a><br />PyTorch</td>
     <td align="center" width="120"><a href="https://qwenlm.github.io/" target="_blank" rel="noreferrer"><img src="/icons/qwen-ai-icon.png?v=3" alt="Qwen" width="40" height="40"/></a><br />Qwen</td>
     <td align="center" width="120"><a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/></a><br />React</td>
-    <td align="center" width="120"><a href="https://reactnative.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="React Native" width="40" height="40"/></a><br />React Native</td>
-    <td align="center" width="120"><a href="https://scratch.mit.edu" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/scratch?viewbox=auto&size=40" alt="Scratch" width="40" height="40"/></a><br />Scratch</td>
   </tr>
   <tr>
+    <td align="center" width="120"><a href="https://reactnative.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="React Native" width="40" height="40"/></a><br />React Native</td>
+    <td align="center" width="120"><a href="https://scratch.mit.edu" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/scratch?viewbox=auto&size=40" alt="Scratch" width="40" height="40"/></a><br />Scratch</td>
     <td align="center" width="120"><a href="https://www.sketchup.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sketchup" alt="SketchUp" width="40" height="40"/></a><br />SketchUp</td>
     <td align="center" width="120"><a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="40" height="40"/></a><br />Tailwind</td>
     <td align="center" width="120"><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="40" height="40"/></a><br />TensorFlow</td>
     <td align="center" width="120"><a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40"/></a><br />TypeScript</td>
     <td align="center" width="120"><a href="https://unity.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="40" height="40"/></a><br />Unity</td>
     <td align="center" width="120"><a href="https://vite.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="40" height="40"/></a><br />Vite</td>
+  </tr>
+  <tr>
     <td align="center" width="120"><a href="https://vuejs.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vue" alt="Vue" width="40" height="40"/></a><br />Vue</td>
     <td align="center" width="120"><a href="https://zapier.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/zapier/FF4A00" alt="Zapier" width="40" height="40"/></a><br />Zapier</td>
   </tr>
 </table>
+
 
 <h2 align="left">Just some statistics:</h2>
 

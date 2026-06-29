@@ -50,6 +50,37 @@
 
 You can also ask me anything here: https://github.com/sarang-cmd/sarang-cmd/issues
 
+<hr>
+
+<h3 align="left">🚀 Featured Projects</h3>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/sarang-cmd/sarang.s-pit-wall">🏎️ Sarang's Pit Wall</a></h4>
+      <p>Personal Formula 1 dashboard with live standings, race calendar, paddock news, and YouTube feeds. Built with HTML, JS, and Cloudflare Workers.</p>
+      <p><a href="https://n.sar-brawlstars.workers.dev/">🔗 Live Demo</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/sarang-cmd/The-Ashworth-Affair">🕵️ The Ashworth Affair</a></h4>
+      <p>Cinematic React mystery investigation game set in Blackwood Manor, built with Vite, TypeScript, Zustand, and Puter.js.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/sarang-cmd/sustainabuy">🌱 Sustainabuy</a></h4>
+      <p>Sustainable shopping assistant with full Perplexity AI integration to surface eco-friendly alternatives and product impact data.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/sarang-cmd/road-to-cs336">🧠 Road to Stanford CS336</a></h4>
+      <p>A complete, 100% free self-study roadmap from high school math to Stanford's graduate-level LLM course — math, PyTorch, Karpathy, and beyond.</p>
+      <p><a href="https://sarang-cmd.github.io/road-to-cs336/">🔗 View Roadmap</a></p>
+    </td>
+  </tr>
+</table>
+
+<hr>
+
 <h3 align="left">My Tech Stack - Languages and Tools:</h3>
 <table>
   <tr>

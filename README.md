@@ -64,12 +64,14 @@ You can also ask me anything here: https://github.com/sarang-cmd/sarang-cmd/issu
     <td width="50%" valign="top">
       <h4><a href="https://github.com/sarang-cmd/The-Ashworth-Affair">🕵️ The Ashworth Affair</a></h4>
       <p>Cinematic React mystery investigation game set in Blackwood Manor, built with Vite, TypeScript, Zustand, and Puter.js.</p>
+      <p><a href="https://the-ashworth-affair.web.app/">🔗 Live Demo</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/sarang-cmd/sustainabuy">🌱 Sustainabuy</a></h4>
       <p>Sustainable shopping assistant with full Perplexity AI integration to surface eco-friendly alternatives and product impact data.</p>
+       <p><a href="https://sustainabuy-dev.web.app/">🔗 Live Demo</a></p>
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/sarang-cmd/road-to-cs336">🧠 Road to Stanford CS336</a></h4>

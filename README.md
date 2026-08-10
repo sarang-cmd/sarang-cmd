@@ -9,7 +9,7 @@
 <hr>
 
 - 💻 I'm currently working on:
-    - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/960px-F1.svg.png" alt="Formula One Logo" width="45" /> a personal Formula 1 Pit Wall Dashboard
+    - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/960px-F1.svg.png" alt="Formula One Logo" width="45" /> a personal Formula 1 Pit Wall Dashboard. [Repo 🔗](https://github.com/sarang-cmd/sarang.s-pit-wall)
     - 📨 [Clarity](https://github.com/sarang-cmd/clarity): an opensource BYOK email assistant that sorts, labels, and summarizes your inbox.
     - 🪄 [Vocalize](https://github.com/sarang-cmd/vocalize): talk, and Vocalize turns it into text, notes, and flashcards for free, open-source, BYOK.
     - 🦆 [Ducktube](https://github.com/sarang-cmd/ducktube): an offline-first video library that lets you organize, customize, and watch videos without internet. [Demo 🔗](https://ducktube-mp4.web.app)

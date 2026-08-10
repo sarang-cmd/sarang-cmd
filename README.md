@@ -10,8 +10,9 @@
 
 - 💻 I'm currently working on:
     - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/960px-F1.svg.png" alt="Formula One Logo" width="45" /> a personal Formula 1 Pit Wall Dashboard
+    - 📨 [Clarity](https://github.com/sarang-cmd/clarity): an opensource BYOK email assistant that sorts, labels, and summarizes your inbox.
+    - 🪄 [Vocalize](https://github.com/sarang-cmd/vocalize): talk, and Vocalize turns it into text, notes, and flashcards for free, open-source, BYOK.
     - 🦆 [Ducktube](https://github.com/sarang-cmd/ducktube): an offline-first video library that lets you organize, customize, and watch videos without internet. [Demo 🔗](https://ducktube-mp4.web.app)
-    - ⌨️ [Typo](https://github.com/sarang-cmd/typo): a gamified technical typing trainer for developers. [Live Demo 🔗](play-typo.web.app)
     - 🔐 [Lock it In](https://github.com/sarang-cmd/lock-it-in): a fast, gen Z study app in which you can create, import, and review flashcard sets. [Live Demo 🔗](https://lock-it-in-fr.web.app/)
   
 - 🧠 I'm currently working through a self-built AI/ML roadmap targeting Stanford CS336 - [check it out](https://github.com/sarang-cmd/road-to-cs336)

@@ -2,6 +2,8 @@
 
 ### Just another aspiring CS Student.
 
+[![wakatime](https://wakatime.com/badge/user/bbf87378-58e9-44c9-ae3c-123ab117c0a3.svg)](https://wakatime.com/@bbf87378-58e9-44c9-ae3c-123ab117c0a3)
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sarang-cmd&label=Profile%20views&color=0e75b6&style=flat" alt="sarang-cmd" />
 </p>

@@ -41,13 +41,13 @@
       LinkedIn
     </td>
     <td align="center" width="120">
-      <a href="https://instagram.com/aaravdeev" target="_blank" rel="noreferrer">
+      <a href="https://instagram.com/sarangde.v" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40" />
       </a><br />
       Instagram
     </td>
     <td align="center" width="120">
-      <a href="mailto:sbatra@student.dresden-is.de">
+      <a href="mailto:sarang.cmd@gmail.com">
         <img src="https://cdn.simpleicons.org/gmail" alt="Email" width="40" height="40" />
       </a><br />
       Gmail

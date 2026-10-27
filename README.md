@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Sarang Batra
 
-### Just another aspiring CS Student.
+### Just another aspiring CS Student and Agentic Engineer.
 
 [![wakatime](https://wakatime.com/badge/user/bbf87378-58e9-44c9-ae3c-123ab117c0a3.svg)](https://wakatime.com/@bbf87378-58e9-44c9-ae3c-123ab117c0a3)
 
@@ -11,12 +11,13 @@
 <hr>
 
 - 💻 I'm currently working on:
-    - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/960px-F1.svg.png" alt="Formula One Logo" width="45" /> a personal Formula 1 Pit Wall Dashboard. [Repo 🔗](https://github.com/sarang-cmd/sarang.s-pit-wall)
-    - 📨 [Clarity](https://github.com/sarang-cmd/clarity): an opensource BYOK email assistant that sorts, labels, and summarizes your inbox.
-    - 🪄 [Vocalize](https://github.com/sarang-cmd/vocalize): talk, and Vocalize turns it into text, notes, and flashcards for free, open-source, BYOK.
-    - 🦆 [Ducktube](https://github.com/sarang-cmd/ducktube): an offline-first video library that lets you organize, customize, and watch videos without internet. [Demo 🔗](https://ducktube-mp4.web.app)
-    - 🔐 [Lock it In](https://github.com/sarang-cmd/lock-it-in): a fast, gen Z study app in which you can create, import, and review flashcard sets. [Live Demo 🔗](https://lock-it-in-fr.web.app/)
-  
+    - 🎙️ [groq-transcribe](https://github.com/sarang-cmd/groq-transcribe): a focused audio-to-text workspace — transcribe recordings with Groq Whisper, clean up punctuation, convert subtitles, and export TXT/SRT/WebVTT/JSON. [Live demo](https://groq-transcribe.vercel.app)
+    - 📝 [lm-subs](https://github.com/sarang-cmd/lm-subs): a Manifest V3 Chrome extension that delivers synchronized captions for Google NotebookLM Video Overviews — 12 BYOK speech-to-text providers, encrypted Neon cloud sync, and SRT/WebVTT/TXT/JSON export.
+    - 📐 [sarang.md](https://github.com/sarang-cmd/sarang.md): IB Mathematics AA HL/SL study space — 83 syllabus lessons, 1,069 practice questions, mark schemes, formula booklet, and a signed Windows desktop app.
+    - 🧘 [study-with-sarang](https://github.com/sarang-cmd/study-with-sarang): a calm focus studio for students — ambient sound, goal-first timer, mindful breaks, honest progress, and a Windows desktop app with voice commands.
+    - 🔗 [perplexity-autorename](https://github.com/sarang-cmd/perplexity-autorename): Chrome extension that auto-renames Perplexity threads to crisp 3–7 word titles the moment the first answer finishes streaming.
+    - 🌦️ [dragon-detector](https://github.com/sarang-cmd/dragon-detector): the DIS Weather Station for Dresden International School — live campus weather from a Sainlogic WS3500 on the roof. [Live demo](https://dragon-detector.vercel.app)
+
 - 🧠 I'm currently working through a self-built AI/ML roadmap targeting Stanford CS336 - [check it out](https://github.com/sarang-cmd/road-to-cs336)
 - 🌱 I'm currently learning deep learning fundamentals (linear algebra → backprop → transformers)
 - 👯 I'm looking to collaborate on any project!
@@ -65,21 +66,21 @@ You can also ask me anything here: [https://github.com/sarang-cmd/sarang-cmd/iss
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/sarang-cmd/sarang.s-pit-wall">🏎️ Sarang's Pit Wall</a></h4>
-      <p>Personal Formula 1 dashboard with live standings, race calendar, paddock news, and YouTube feeds. Built with HTML, JS, and Cloudflare Workers.</p>
-      <p><a href="https://n.sar-brawlstars.workers.dev/">🔗 Live Demo</a></p>
+      <h4><a href="https://github.com/sarang-cmd/groq-transcribe">🎙️ Groq Transcribe</a></h4>
+      <p>A focused audio-to-text workspace: transcribe recordings with Groq Whisper, clean up punctuation, convert subtitles, and export TXT/SRT/WebVTT/JSON. Built with Next.js, TypeScript, and Vercel Blob.</p>
+      <p><a href="https://groq-transcribe.vercel.app/">🔗 Live Demo</a></p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/sarang-cmd/The-Ashworth-Affair">🕵️ The Ashworth Affair</a></h4>
-      <p>Cinematic React mystery investigation game set in Blackwood Manor, built with Vite, TypeScript, Zustand, and Puter.js.</p>
-      <p><a href="https://the-ashworth-affair.web.app/">🔗 Live Demo</a></p>
+      <h4><a href="https://github.com/sarang-cmd/lm-subs">📝 LM Subs</a></h4>
+      <p>Manifest V3 Chrome extension for synchronized captions on Google NotebookLM Video Overviews — 12 BYOK speech-to-text providers, encrypted Neon cloud sync, SRT/WebVTT/TXT/JSON export.</p>
+      <p><a href="https://lm-subs.vercel.app/">🔗 Live Demo</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/sarang-cmd/sustainabuy">🌱 Sustainabuy</a></h4>
-      <p>Sustainable shopping assistant with full Perplexity AI integration to surface eco-friendly alternatives and product impact data.</p>
-      <p><a href="https://sustainabuy-dev.web.app/">🔗 Live Demo</a></p>
+      <h4><a href="https://github.com/sarang-cmd/sarang.md">📐 Sarang.md</a></h4>
+      <p>IB Mathematics AA HL/SL study space — 83 syllabus lessons, 1,069 practice questions, mark schemes, formula booklet, and a signed Windows desktop app. Built with Vite, React, TypeScript, and Tailwind.</p>
+      <p><a href="https://sarang-md.vercel.app/">🔗 Live Demo</a></p>
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/sarang-cmd/road-to-cs336">🧠 Road to Stanford CS336</a></h4>

@@ -15,7 +15,7 @@
     - 📝 [LM Subs](https://github.com/sarang-cmd/lm-subs): a Manifest V3 Chrome extension delivering synchronized captions for Google NotebookLM Video Overviews with 12 BYOK speech-to-text providers, encrypted Neon cloud sync, and SRT/WebVTT/TXT/JSON export.
     - 🧘 [Study With Sarang](https://github.com/sarang-cmd/study-with-sarang): a calm focus studio for students with ambient sound, goal-first timer, mindful breaks, honest progress, and a Windows desktop app with voice commands.
     - 🔗 [Perplexity Autorename](https://github.com/sarang-cmd/perplexity-autorename): Chrome extension renaming Perplexity threads to crisp short titles when the first answer finishes streaming.
-    - ⚪ [Flow](https://github.com/sarang-cmd/flow): Flow creates white noise for sleeping, studying, and locking in. It blocks phone and laptop use as native Electron apps. Control one device from another. Pause, play, and change sounds from your second device. Choose if one or both devices play sound.
+    - ⚪ [Flow](https://github.com/sarang-cmd/flow): Flow makes white noise for sleep, study, and focus. It blocks phone and laptop use on native desktop apps. Control one device from another. Pick if one or both devices play sound.
 
 - 🧠 I'm currently working through a self-built AI/ML roadmap targeting Stanford CS336 [check it out](https://github.com/sarang-cmd/road-to-cs336)
 - 🌱 I'm currently learning deep learning fundamentals (linear algebra → backprop → transformers)

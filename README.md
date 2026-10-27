@@ -172,12 +172,12 @@ You can also ask me anything here: [https://github.com/sarang-cmd/sarang-cmd/iss
 
 <p align="center">
   <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=sarang-cmd&show_icons=true&theme=dark&hide_border=true&cache_seconds=60"
+    src="https://github-stats-extended.vercel.app/api?username=sarang-cmd&show_icons=true&theme=dark&hide_border=true&cache_seconds=60"
     alt="Sarang's GitHub stats"
     width="54%"
   />
   <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sarang-cmd&show_icons=true&layout=compact&theme=dark&hide_border=true&cache_seconds=60&v=3"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=sarang-cmd&show_icons=true&layout=compact&theme=dark&hide_border=true&cache_seconds=60&v=3"
     alt="Top languages"
     width="41%"
   />

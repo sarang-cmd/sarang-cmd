@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Sarang Batra
 
-### Just another aspiring CS Student.
+### An aspiring CS Student and Agentic Engineer.
 
 [![wakatime](https://wakatime.com/badge/user/bbf87378-58e9-44c9-ae3c-123ab117c0a3.svg)](https://wakatime.com/@bbf87378-58e9-44c9-ae3c-123ab117c0a3)
 
@@ -11,13 +11,13 @@
 <hr>
 
 - 💻 I'm currently working on:
-    - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/960px-F1.svg.png" alt="Formula One Logo" width="45" /> a personal Formula 1 Pit Wall Dashboard. [Repo 🔗](https://github.com/sarang-cmd/sarang.s-pit-wall)
-    - 📨 [Clarity](https://github.com/sarang-cmd/clarity): an opensource BYOK email assistant that sorts, labels, and summarizes your inbox.
-    - 🪄 [Vocalize](https://github.com/sarang-cmd/vocalize): talk, and Vocalize turns it into text, notes, and flashcards for free, open-source, BYOK.
-    - 🦆 [Ducktube](https://github.com/sarang-cmd/ducktube): an offline-first video library that lets you organize, customize, and watch videos without internet. [Demo 🔗](https://ducktube-mp4.web.app)
-    - 🔐 [Lock it In](https://github.com/sarang-cmd/lock-it-in): a fast, gen Z study app in which you can create, import, and review flashcard sets. [Live Demo 🔗](https://lock-it-in-fr.web.app/)
-  
-- 🧠 I'm currently working through a self-built AI/ML roadmap targeting Stanford CS336 - [check it out](https://github.com/sarang-cmd/road-to-cs336)
+    - 📐 [Sarang.md](https://github.com/sarang-cmd/sarang.md): IB Mathematics AA HL/SL study space with 83 syllabus lessons, 1,069 practice questions, mark schemes, formula booklet, and a signed Windows desktop app.
+    - 📝 [LM Subs](https://github.com/sarang-cmd/lm-subs): a Manifest V3 Chrome extension delivering synchronized captions for Google NotebookLM Video Overviews with 12 BYOK speech-to-text providers, encrypted Neon cloud sync, and SRT/WebVTT/TXT/JSON export.
+    - 🧘 [Study With Sarang](https://github.com/sarang-cmd/study-with-sarang): a calm focus studio for students with ambient sound, goal-first timer, mindful breaks, honest progress, and a Windows desktop app with voice commands.
+    - 🔗 [Perplexity Autorename](https://github.com/sarang-cmd/perplexity-autorename): Chrome extension renaming Perplexity threads to crisp short titles when the first answer finishes streaming.
+    - ⚪ [Flow](https://github.com/sarang-cmd/flow): Flow makes white noise for sleep, study, and focus. It blocks phone and laptop use on native desktop apps. Control one device from another. Pick if one or both devices play sound.
+
+- 🧠 I'm currently working through a self-built AI/ML roadmap targeting Stanford CS336 [check it out](https://github.com/sarang-cmd/road-to-cs336)
 - 🌱 I'm currently learning deep learning fundamentals (linear algebra → backprop → transformers)
 - 👯 I'm looking to collaborate on any project!
 - 🤔 I'm looking for help with project ideas.
@@ -56,7 +56,7 @@
 </table>
 <strong>(let me know you came from my GitHub)</strong>
 
-You can also ask me anything here: [https://github.com/sarang-cmd/sarang-cmd/issues](https://github.com/sarang-cmd/sarang-cmd/issues)
+Ask me anything here: [https://github.com/sarang-cmd/sarang-cmd/issues](https://github.com/sarang-cmd/sarang-cmd/issues)
 
 <hr>
 
@@ -65,26 +65,26 @@ You can also ask me anything here: [https://github.com/sarang-cmd/sarang-cmd/iss
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/sarang-cmd/sarang.s-pit-wall">🏎️ Sarang's Pit Wall</a></h4>
-      <p>Personal Formula 1 dashboard with live standings, race calendar, paddock news, and YouTube feeds. Built with HTML, JS, and Cloudflare Workers.</p>
-      <p><a href="https://n.sar-brawlstars.workers.dev/">🔗 Live Demo</a></p>
+      <h4><a href="https://github.com/sarang-cmd/sarang.md">📐 Sarang.md</a></h4>
+      <p>IB Mathematics AA HL/SL study space with 83 syllabus lessons, 1,069 practice questions, mark schemes, formula booklet, and a signed Windows desktop app. Built with Vite, React, TypeScript, and Tailwind.</p>
+      <p><a href="https://sarang-md.vercel.app/">🔗 Live Demo</a></p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/sarang-cmd/The-Ashworth-Affair">🕵️ The Ashworth Affair</a></h4>
-      <p>Cinematic React mystery investigation game set in Blackwood Manor, built with Vite, TypeScript, Zustand, and Puter.js.</p>
-      <p><a href="https://the-ashworth-affair.web.app/">🔗 Live Demo</a></p>
+      <h4><a href="https://github.com/sarang-cmd/lm-subs">📝 LM Subs</a></h4>
+      <p>Manifest V3 Chrome extension for synchronized captions on Google NotebookLM Video Overviews with 12 BYOK speech-to-text providers, encrypted Neon cloud sync, SRT/WebVTT/TXT/JSON export.</p>
+      <p><a href="https://lm-subs.vercel.app/">🔗 Live Demo</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/sarang-cmd/sustainabuy">🌱 Sustainabuy</a></h4>
-      <p>Sustainable shopping assistant with full Perplexity AI integration to surface eco-friendly alternatives and product impact data.</p>
-      <p><a href="https://sustainabuy-dev.web.app/">🔗 Live Demo</a></p>
+      <h4><a href="https://github.com/sarang-cmd/road-to-cs336">🧠 Road to Stanford CS336</a></h4>
+      <p>100% free self-study roadmap from high school math to Stanford's graduate-level LLM course. Covers math, PyTorch, Karpathy, and beyond.</p>
+      <p><a href="https://sarang-cmd.github.io/road-to-cs336/">🔗 View Roadmap</a></p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/sarang-cmd/road-to-cs336">🧠 Road to Stanford CS336</a></h4>
-      <p>A complete, 100% free self-study roadmap from high school math to Stanford's graduate-level LLM course — math, PyTorch, Karpathy, and beyond.</p>
-      <p><a href="https://sarang-cmd.github.io/road-to-cs336/">🔗 View Roadmap</a></p>
+      <h4><a href="https://github.com/sarang-cmd/study-with-sarang">🧘 Study With Sarang</a></h4>
+      <p>Calm focus studio for students with ambient sound, goal-first timer, mindful breaks, honest progress, and a Windows desktop app with voice commands.</p>
+      <p><a href="https://sarang-md.vercel.app/study-with-sarang/">🔗 Live Demo</a></p>
     </td>
   </tr>
 </table>
@@ -155,7 +155,7 @@ You can also ask me anything here: [https://github.com/sarang-cmd/sarang-cmd/iss
   </tr>
 </table>
 
-<h2 align="left">Just some statistics:</h2>
+<h2 align="left">Some statistics:</h2>
 
 <!--
   <p align="center">

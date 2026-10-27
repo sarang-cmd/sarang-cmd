@@ -11,10 +11,10 @@
 <hr>
 
 - 💻 I'm currently working on:
-    - 📝 [lm-subs](https://github.com/sarang-cmd/lm-subs): a Manifest V3 Chrome extension that delivers synchronized captions for Google NotebookLM Video Overviews — 12 BYOK speech-to-text providers, encrypted Neon cloud sync, and SRT/WebVTT/TXT/JSON export.
-    - 📐 [sarang.md](https://github.com/sarang-cmd/sarang.md): IB Mathematics AA HL/SL study space — 83 syllabus lessons, 1,069 practice questions, mark schemes, formula booklet, and a signed Windows desktop app.
-    - 🧘 [study-with-sarang](https://github.com/sarang-cmd/study-with-sarang): a calm focus studio for students — ambient sound, goal-first timer, mindful breaks, honest progress, and a Windows desktop app with voice commands.
-    - 🔗 [perplexity-autorename](https://github.com/sarang-cmd/perplexity-autorename): Chrome extension that auto-renames Perplexity threads to crisp 3–7 word titles the moment the first answer finishes streaming.
+    - 📐 [Sarang.md](https://github.com/sarang-cmd/sarang.md): IB Mathematics AA HL/SL study space with 83 syllabus lessons, 1,069 practice questions, mark schemes, formula booklet, and a signed Windows desktop app.
+    - 📝 [LM Subs](https://github.com/sarang-cmd/lm-subs): a Manifest V3 Chrome extension delivering synchronized captions for Google NotebookLM Video Overviews with 12 BYOK speech-to-text providers, encrypted Neon cloud sync, and SRT/WebVTT/TXT/JSON export.
+    - 🧘 [Study With Sarang](https://github.com/sarang-cmd/study-with-sarang): a calm focus studio for students with ambient sound, goal-first timer, mindful breaks, honest progress, and a Windows desktop app with voice commands.
+    - 🔗 [Perplexity Autorename](https://github.com/sarang-cmd/perplexity-autorename): Chrome extension that renames Perplexity threads to crisp short titles when the first answer finishes streaming.
 
 - 🧠 I'm currently working through a self-built AI/ML roadmap targeting Stanford CS336 - [check it out](https://github.com/sarang-cmd/road-to-cs336)
 - 🌱 I'm currently learning deep learning fundamentals (linear algebra → backprop → transformers)
@@ -64,20 +64,20 @@ You can also ask me anything here: [https://github.com/sarang-cmd/sarang-cmd/iss
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/sarang-cmd/lm-subs">📝 LM Subs</a></h4>
-      <p>Manifest V3 Chrome extension for synchronized captions on Google NotebookLM Video Overviews — 12 BYOK speech-to-text providers, encrypted Neon cloud sync, SRT/WebVTT/TXT/JSON export.</p>
-      <p><a href="https://lm-subs.vercel.app/">🔗 Live Demo</a></p>
+      <h4><a href="https://github.com/sarang-cmd/sarang.md">📐 Sarang.md</a></h4>
+      <p>IB Mathematics AA HL/SL study space with 83 syllabus lessons, 1,069 practice questions, mark schemes, formula booklet, and a signed Windows desktop app. Built with Vite, React, TypeScript, and Tailwind.</p>
+      <p><a href="https://sarang-md.vercel.app/">🔗 Live Demo</a></p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/sarang-cmd/sarang.md">📐 Sarang.md</a></h4>
-      <p>IB Mathematics AA HL/SL study space — 83 syllabus lessons, 1,069 practice questions, mark schemes, formula booklet, and a signed Windows desktop app. Built with Vite, React, TypeScript, and Tailwind.</p>
-      <p><a href="https://sarang-md.vercel.app/">🔗 Live Demo</a></p>
+      <h4><a href="https://github.com/sarang-cmd/lm-subs">📝 LM Subs</a></h4>
+      <p>Manifest V3 Chrome extension for synchronized captions on Google NotebookLM Video Overviews with 12 BYOK speech-to-text providers, encrypted Neon cloud sync, SRT/WebVTT/TXT/JSON export.</p>
+      <p><a href="https://lm-subs.vercel.app/">🔗 Live Demo</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/sarang-cmd/road-to-cs336">🧠 Road to Stanford CS336</a></h4>
-      <p>A complete, 100% free self-study roadmap from high school math to Stanford's graduate-level LLM course — math, PyTorch, Karpathy, and beyond.</p>
+      <p>A complete, 100% free self-study roadmap from high school math to Stanford's graduate-level LLM course math, PyTorch, Karpathy, and beyond.</p>
       <p><a href="https://sarang-cmd.github.io/road-to-cs336/">🔗 View Roadmap</a></p>
     </td>
   </tr>

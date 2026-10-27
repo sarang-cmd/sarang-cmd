@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Sarang Batra
 
-### Just another aspiring CS Student and Agentic Engineer.
+### An aspiring CS Student and Agentic Engineer.
 
 [![wakatime](https://wakatime.com/badge/user/bbf87378-58e9-44c9-ae3c-123ab117c0a3.svg)](https://wakatime.com/@bbf87378-58e9-44c9-ae3c-123ab117c0a3)
 
@@ -14,9 +14,10 @@
     - 📐 [Sarang.md](https://github.com/sarang-cmd/sarang.md): IB Mathematics AA HL/SL study space with 83 syllabus lessons, 1,069 practice questions, mark schemes, formula booklet, and a signed Windows desktop app.
     - 📝 [LM Subs](https://github.com/sarang-cmd/lm-subs): a Manifest V3 Chrome extension delivering synchronized captions for Google NotebookLM Video Overviews with 12 BYOK speech-to-text providers, encrypted Neon cloud sync, and SRT/WebVTT/TXT/JSON export.
     - 🧘 [Study With Sarang](https://github.com/sarang-cmd/study-with-sarang): a calm focus studio for students with ambient sound, goal-first timer, mindful breaks, honest progress, and a Windows desktop app with voice commands.
-    - 🔗 [Perplexity Autorename](https://github.com/sarang-cmd/perplexity-autorename): Chrome extension that renames Perplexity threads to crisp short titles when the first answer finishes streaming.
+    - 🔗 [Perplexity Autorename](https://github.com/sarang-cmd/perplexity-autorename): Chrome extension renaming Perplexity threads to crisp short titles when the first answer finishes streaming.
+    - ⚪ [Flow](https://github.com/sarang-cmd/flow): Flow creates white noise and sound for sleeping, studying, locking in, and removing distractions. It includes controls plus phone and laptop blocking as native Electron apps. Control one device from another. Pause, play, change sounds, and more from your second device. Choose if one or both devices play sound. Flow mimics Apple Standby mode.
 
-- 🧠 I'm currently working through a self-built AI/ML roadmap targeting Stanford CS336 - [check it out](https://github.com/sarang-cmd/road-to-cs336)
+- 🧠 I'm currently working through a self-built AI/ML roadmap targeting Stanford CS336 [check it out](https://github.com/sarang-cmd/road-to-cs336)
 - 🌱 I'm currently learning deep learning fundamentals (linear algebra → backprop → transformers)
 - 👯 I'm looking to collaborate on any project!
 - 🤔 I'm looking for help with project ideas.
@@ -55,7 +56,7 @@
 </table>
 <strong>(let me know you came from my GitHub)</strong>
 
-You can also ask me anything here: [https://github.com/sarang-cmd/sarang-cmd/issues](https://github.com/sarang-cmd/sarang-cmd/issues)
+Ask me anything here: [https://github.com/sarang-cmd/sarang-cmd/issues](https://github.com/sarang-cmd/sarang-cmd/issues)
 
 <hr>
 
@@ -77,8 +78,13 @@ You can also ask me anything here: [https://github.com/sarang-cmd/sarang-cmd/iss
   <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/sarang-cmd/road-to-cs336">🧠 Road to Stanford CS336</a></h4>
-      <p>A complete, 100% free self-study roadmap from high school math to Stanford's graduate-level LLM course math, PyTorch, Karpathy, and beyond.</p>
+      <p>100% free self-study roadmap from high school math to Stanford's graduate-level LLM course. Covers math, PyTorch, Karpathy, and beyond.</p>
       <p><a href="https://sarang-cmd.github.io/road-to-cs336/">🔗 View Roadmap</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/sarang-cmd/study-with-sarang">🧘 Study With Sarang</a></h4>
+      <p>Calm focus studio for students with ambient sound, goal-first timer, mindful breaks, honest progress, and a Windows desktop app with voice commands.</p>
+      <p><a href="https://sarang-md.vercel.app/study-with-sarang/">🔗 Live Demo</a></p>
     </td>
   </tr>
 </table>
@@ -149,7 +155,7 @@ You can also ask me anything here: [https://github.com/sarang-cmd/sarang-cmd/iss
   </tr>
 </table>
 
-<h2 align="left">Just some statistics:</h2>
+<h2 align="left">Some statistics:</h2>
 
 <!--
   <p align="center">

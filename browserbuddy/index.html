@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f6f5ee">
+  <title>BrowserBuddy | Make room to focus</title>
+  <link rel="icon" href="assets/icons/icon32.png" type="image/png">
+  <link rel="stylesheet" href="styles.css">
+  <script type="module" src="app.js"></script>
+</head>
+<body>
+  <svg class="svg-sprite" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+    <symbol id="i-today" viewBox="0 0 24 24"><path d="M4 10.5 12 4l8 6.5V20H4z"/><path d="M9 20v-6h6v6"/></symbol>
+    <symbol id="i-focus" viewBox="0 0 24 24"><circle cx="12" cy="12" r="8.5"/><path d="M12 7.5V12l3 2"/></symbol>
+    <symbol id="i-library" viewBox="0 0 24 24"><path d="M5 5.5h12.5a2 2 0 0 1 2 2V20H7a2 2 0 0 1-2-2z"/><path d="M5 17.5a2.5 2.5 0 0 1 2.5-2.5h12M9 9h6"/></symbol>
+    <symbol id="i-insights" viewBox="0 0 24 24"><path d="M4 19h16M6.5 15v-4M12 15V5M17.5 15V8"/></symbol>
+    <symbol id="i-settings" viewBox="0 0 24 24"><path d="M4 7h16M4 17h16M8 4v6M16 14v6"/></symbol>
+    <symbol id="i-plus" viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></symbol>
+    <symbol id="i-arrow" viewBox="0 0 24 24"><path d="M5 12h14M14 7l5 5-5 5"/></symbol>
+    <symbol id="i-external" viewBox="0 0 24 24"><path d="M13 5h6v6M19 5l-9 9M18 14v5H5V6h5"/></symbol>
+    <symbol id="i-edit" viewBox="0 0 24 24"><path d="m5 16 9-9 3 3-9 9H5zM13 8l3 3M14 7l2-2 3 3-2 2"/></symbol>
+    <symbol id="i-close" viewBox="0 0 24 24"><path d="M6 6l12 12M18 6 6 18"/></symbol>
+    <symbol id="i-check" viewBox="0 0 24 24"><path d="m5 12 4.5 4.5L19 7"/></symbol>
+    <symbol id="i-lock" viewBox="0 0 24 24"><rect x="5" y="10" width="14" height="10" rx="2"/><path d="M8 10V7a4 4 0 0 1 8 0v3M12 14v2"/></symbol>
+    <symbol id="i-search" viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="5.5"/><path d="m15 15 4 4"/></symbol>
+    <symbol id="i-info" viewBox="0 0 24 24"><circle cx="12" cy="12" r="8.5"/><path d="M12 10.5v5M12 7.5h.01"/></symbol>
+  </svg>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <div class="app-shell">
+    <aside class="sidebar" aria-label="Main navigation">
+      <a class="brand" href="#today" aria-label="BrowserBuddy, home"><img src="assets/icons/icon48.png" alt=""><span>Browser<span>Buddy</span></span></a>
+      <p class="side-label">YOUR SPACE</p>
+      <nav class="nav-list" aria-label="Main">
+        <a href="#today" data-route="today"><svg class="icon"><use href="#i-today"></use></svg><span>Today</span></a>
+        <a href="#focus" data-route="focus"><svg class="icon"><use href="#i-focus"></use></svg><span>Focus session</span></a>
+        <a href="#library" data-route="library"><svg class="icon"><use href="#i-library"></use></svg><span>Library</span></a>
+        <a href="#insights" data-route="insights"><svg class="icon"><use href="#i-insights"></use></svg><span>Check-ins</span></a>
+        <a href="#settings" data-route="settings"><svg class="icon"><use href="#i-settings"></use></svg><span>Settings</span></a>
+      </nav>
+      <div class="sidebar-bottom">
+        <div class="side-note"><svg class="icon"><use href="#i-lock"></use></svg><div><strong>A little space for you.</strong><span>Your data stays on this device.</span></div></div>
+        <p>Made for getting back to it.</p>
+      </div>
+    </aside>
+    <div class="workspace">
+      <header class="topbar">
+        <a class="mobile-brand brand" href="#today"><img src="assets/icons/icon48.png" alt=""><span>Browser<span>Buddy</span></span></a>
+        <p id="top-date" class="top-date"></p>
+        <button class="mode-indicator" type="button" data-action="mode-info"><span class="status-dot"></span><span id="mode-label">Loading dashboard</span></button>
+      </header>
+      <div id="mode-banner" class="mode-banner" hidden></div>
+      <main id="main" tabindex="-1"><div id="app"><div class="initial-loading">Opening your space...</div></div></main>
+      <footer class="footer"><span>BrowserBuddy <span aria-hidden="true">·</span> A little at a time.</span><div><a href="privacy.html">Privacy</a><a href="terms.html">Terms</a></div></footer>
+    </div>
+  </div>
+  <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+
+  <dialog id="task-dialog" aria-labelledby="task-dialog-title">
+    <form method="dialog" id="task-form" class="dialog-form">
+      <div class="dialog-header"><div><p class="eyebrow">YOUR NEXT STEP</p><h2 id="task-dialog-title">Add a task</h2></div><button class="icon-button" type="button" data-action="close-dialog" aria-label="Close"><svg class="icon"><use href="#i-close"></use></svg></button></div>
+      <p class="dialog-intro">Start with one thing you want to make time for.</p>
+      <input type="hidden" name="id">
+      <label>What are you working on? <span class="required">Required</span><input name="title" maxlength="120" required placeholder="e.g. Finish my assignment" autocomplete="off"></label>
+      <label>Specific topic <span class="optional">Optional</span><input name="topic" maxlength="120" placeholder="e.g. Gas stoichiometry" autocomplete="off"><small>Helps with the optional title keyword check.</small></label>
+      <label>Link to your task <span class="optional">Optional</span><input name="url" type="url" maxlength="2048" placeholder="https://..."><small>Give yourself a direct way back to your work.</small></label>
+      <div class="form-grid"><label>Due date <span class="optional">Optional</span><input name="dueDate" type="date"></label><label>Planned start <span class="optional">Optional</span><input name="plannedStart" type="datetime-local"></label></div>
+      <label>Planned window length <span class="optional">If a start is set</span><select name="windowMinutes"><option value="25">25 minutes</option><option value="45" selected>45 minutes</option><option value="60">1 hour</option><option value="90">1 hour 30 minutes</option><option value="120">2 hours</option><option value="180">3 hours</option><option value="240">4 hours</option><option value="480">8 hours</option></select><small>Optional activity check-ins only look within this window.</small></label>
+      <div class="dialog-actions"><button type="button" class="button button-danger delete-in-dialog" data-action="delete-task" hidden>Delete task</button><button type="button" class="button button-quiet" data-action="close-dialog">Cancel</button><button type="submit" class="button button-primary">Save task <svg class="icon"><use href="#i-arrow"></use></svg></button></div>
+      <p class="form-error" role="alert" hidden></p>
+    </form>
+  </dialog>
+
+  <dialog id="resource-dialog" aria-labelledby="resource-dialog-title">
+    <form method="dialog" id="resource-form" class="dialog-form">
+      <div class="dialog-header"><div><p class="eyebrow">PERSONAL LIBRARY</p><h2 id="resource-dialog-title">Save a resource</h2></div><button class="icon-button" type="button" data-action="close-dialog" aria-label="Close"><svg class="icon"><use href="#i-close"></use></svg></button></div>
+      <p class="dialog-intro">Save a link you have chosen. BrowserBuddy does not search or verify videos.</p>
+      <input type="hidden" name="id"><input type="hidden" name="existingThumbnail">
+      <label>Title <span class="required">Required</span><input name="title" maxlength="160" required placeholder="Give it a useful name"></label>
+      <label>Link <span class="required">Required</span><input name="url" type="url" maxlength="2048" required placeholder="https://..."></label>
+      <div class="form-grid"><label>Creator <span class="optional">Optional</span><input name="creator" maxlength="100" placeholder="Name or channel"></label><label>Topic <span class="optional">Optional</span><input name="topic" maxlength="100" placeholder="e.g. Chemistry"></label></div>
+      <label>Why did you save it? <span class="optional">Optional</span><textarea name="note" maxlength="500" rows="3" placeholder="A note to your future self"></textarea></label>
+      <label>Thumbnail image <span class="optional">Optional</span><input name="thumbnail" type="file" accept="image/png,image/jpeg,image/webp"><small>Stored on this device. Choose a PNG, JPEG, or WebP.</small></label>
+      <div class="dialog-actions"><button type="button" class="button button-quiet" data-action="close-dialog">Cancel</button><button type="submit" class="button button-primary">Save resource <svg class="icon"><use href="#i-arrow"></use></svg></button></div>
+      <p class="form-error" role="alert" hidden></p>
+    </form>
+  </dialog>
+
+  <dialog id="reflection-dialog" aria-labelledby="reflection-title">
+    <form method="dialog" id="reflection-form" class="dialog-form">
+      <div class="dialog-header"><div><p class="eyebrow">A GENTLE CHECK-IN</p><h2 id="reflection-title">A moment to reflect.</h2></div><button class="icon-button" type="button" data-action="close-dialog" aria-label="Close"><svg class="icon"><use href="#i-close"></use></svg></button></div>
+      <p id="reflection-prompt" class="dialog-intro"></p>
+      <input type="hidden" name="day">
+      <label>Was that how you intended to spend your time? <span class="optional">Optional</span><textarea name="answer" rows="4" maxlength="500" placeholder="No judgment. A few words, if you like."></textarea></label>
+      <div class="dialog-actions wrap"><button type="button" class="button button-quiet" data-action="skip-reflection">Skip check-in</button><button type="submit" class="button button-primary">Save reflection</button></div>
+      <p class="form-error" role="alert" hidden></p>
+    </form>
+  </dialog>
+</body>
+</html>

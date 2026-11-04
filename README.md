@@ -185,7 +185,7 @@ Ask me anything here: [https://github.com/sarang-cmd/sarang-cmd/issues](https://
 
 <p align="center">
   <img
-    src="https://github-act-graph.rodriaum.com/graph?username=sarang-cmd&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true&cache_seconds=60"
+    src="https://github-readme-activity-graph-sarang.vercel.app/graph?username=sarang-cmd&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true&cache_seconds=60"
     alt="Sarang's github activity graph"
   />
 </p>

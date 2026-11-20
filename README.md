@@ -3,16 +3,30 @@
 ### An aspiring CS Student and Agentic Engineer.
 
 [![wakatime](https://wakatime.com/badge/user/bbf87378-58e9-44c9-ae3c-123ab117c0a3.svg)](https://wakatime.com/@bbf87378-58e9-44c9-ae3c-123ab117c0a3)
+[![Followers](https://img.shields.io/github/followers/sarang-cmd?style=flat&logo=github)](https://github.com/sarang-cmd?tab=followers)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sarang-cmd&label=Profile%20views&color=0e75b6&style=flat" alt="sarang-cmd" />
 </p>
 
+I build and ship open-source developer tools. My most popular project is [LM Subs](https://github.com/sarang-cmd/lm-subs), a Chrome extension that adds synchronized captions to Google NotebookLM.
+
+[![LM Subs stars](https://img.shields.io/github/stars/sarang-cmd/lm-subs?style=flat&logo=github)](https://github.com/sarang-cmd/lm-subs/stargazers)
+[![LM Subs release](https://img.shields.io/github/v/release/sarang-cmd/lm-subs?style=flat)](https://github.com/sarang-cmd/lm-subs/releases)
+
+<a href="https://star-history.com/#sarang-cmd/lm-subs&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=sarang-cmd/lm-subs&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=sarang-cmd/lm-subs&type=Date" />
+    <img alt="LM Subs star history" src="https://api.star-history.com/svg?repos=sarang-cmd/lm-subs&type=Date" width="380" />
+  </picture>
+</a>
+
 <hr>
 
 - 💻 I'm currently working on:
+    - 📝 [LM Subs](https://github.com/sarang-cmd/lm-subs): a Manifest V3 Chrome extension delivering synchronized captions for Google NotebookLM Video and Audio Overviews with 12 BYOK speech-to-text providers, encrypted Neon cloud sync, and SRT/WebVTT/TXT/JSON export.
     - 📐 [Sarang.md](https://github.com/sarang-cmd/sarang.md): IB Mathematics AA HL/SL study space with 83 syllabus lessons, 1,069 practice questions, mark schemes, formula booklet, and a signed Windows desktop app.
-    - 📝 [LM Subs](https://github.com/sarang-cmd/lm-subs): a Manifest V3 Chrome extension delivering synchronized captions for Google NotebookLM Video Overviews with 12 BYOK speech-to-text providers, encrypted Neon cloud sync, and SRT/WebVTT/TXT/JSON export.
     - 🧘 [Study With Sarang](https://github.com/sarang-cmd/study-with-sarang): a calm focus studio for students with ambient sound, goal-first timer, mindful breaks, honest progress, and a Windows desktop app with voice commands.
     - 🔗 [Perplexity Autorename](https://github.com/sarang-cmd/perplexity-autorename): Chrome extension renaming Perplexity threads to crisp short titles when the first answer finishes streaming.
     - ⚪ [Flow](https://github.com/sarang-cmd/flow): Flow makes white noise for sleep, study, and focus. It blocks phone and laptop use on native desktop apps. Control one device from another. Pick if one or both devices play sound. - <ins>**In Development Currently, GitHub release coming December**</ins>
@@ -20,8 +34,7 @@
 - 🧠 I'm currently working through a self-built AI/ML roadmap targeting Stanford CS336 [check it out](https://github.com/sarang-cmd/road-to-cs336)
 - 🌱 I'm currently learning deep learning fundamentals (linear algebra → backprop → transformers)
 - 👯 I'm looking to collaborate on any project!
-- 🤔 I'm looking for help with project ideas.
-- 💬 Ask me about any project
+- 💬 Ask me about any project or for help with project ideas
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I started coding when I was 7!
 
@@ -65,26 +78,30 @@ Ask me anything here: [https://github.com/sarang-cmd/sarang-cmd/issues](https://
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h4><a href="https://github.com/sarang-cmd/lm-subs">📝 LM Subs</a></h4>
+      <p>Manifest V3 Chrome extension for synchronized captions on Google NotebookLM Video and Audio Overviews with 12 BYOK speech-to-text providers, automatic failover, encrypted Neon cloud sync, SRT/WebVTT/TXT/JSON export.</p>
+      <p>
+        <a href="https://github.com/sarang-cmd/lm-subs/stargazers"><img src="https://img.shields.io/github/stars/sarang-cmd/lm-subs?style=flat&logo=github" alt="Stars" /></a>
+        <a href="https://github.com/sarang-cmd/lm-subs/releases"><img src="https://img.shields.io/github/v/release/sarang-cmd/lm-subs?style=flat" alt="Release" /></a>
+      </p>
+      <p><a href="https://lm-subs.vercel.app/">🔗 Live Demo</a></p>
+    </td>
+    <td width="50%" valign="top">
       <h4><a href="https://github.com/sarang-cmd/sarang.md">📐 Sarang.md</a></h4>
       <p>IB Mathematics AA HL/SL study space with 83 syllabus lessons, 1,069 practice questions, mark schemes, formula booklet, and a signed Windows desktop app. Built with Vite, React, TypeScript, and Tailwind.</p>
       <p><a href="https://sarang-md.vercel.app/">🔗 Live Demo</a></p>
     </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/sarang-cmd/lm-subs">📝 LM Subs</a></h4>
-      <p>Manifest V3 Chrome extension for synchronized captions on Google NotebookLM Video Overviews with 12 BYOK speech-to-text providers, encrypted Neon cloud sync, SRT/WebVTT/TXT/JSON export.</p>
-      <p><a href="https://lm-subs.vercel.app/">🔗 Live Demo</a></p>
-    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/sarang-cmd/road-to-cs336">🧠 Road to Stanford CS336</a></h4>
-      <p>100% free self-study roadmap from high school math to Stanford's graduate-level LLM course. Covers math, PyTorch, Karpathy, and beyond.</p>
-      <p><a href="https://sarang-cmd.github.io/road-to-cs336/">🔗 View Roadmap</a></p>
-    </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/sarang-cmd/study-with-sarang">🧘 Study With Sarang</a></h4>
       <p>Calm focus studio for students with ambient sound, goal-first timer, mindful breaks, honest progress, and a Windows desktop app with voice commands.</p>
       <p><a href="https://sarang-md.vercel.app/study-with-sarang/">🔗 Live Demo</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/sarang-cmd/road-to-cs336">🧠 Road to Stanford CS336</a></h4>
+      <p>100% free self-study roadmap from high school math to Stanford's graduate-level LLM course. Covers math, PyTorch, Karpathy, and beyond.</p>
+      <p><a href="https://sarang-cmd.github.io/road-to-cs336/">🔗 View Roadmap</a></p>
     </td>
   </tr>
 </table>
@@ -156,12 +173,6 @@ Ask me anything here: [https://github.com/sarang-cmd/sarang-cmd/issues](https://
 </table>
 
 <h2 align="left">Some statistics:</h2>
-
-<!--
-  <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sarang-cmd&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
-  </p>
--->
 
 <p align="center">
   <img
